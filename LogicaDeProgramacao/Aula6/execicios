@@ -1,0 +1,47 @@
+// elaborar um aplicativo pra compara 3 valores numericos inteiros  inseridos pelo usuarios.
+// primeiro o programa deve mostra na saida as seguintes perguntas e na sua respectiva linha se é verdadeiro ou falso
+
+// 1- o primeiro valor é igual ao terceiro valor? R:
+// 2- o segundo valor é diferente do primeiro valor ? R:
+// 3- o segundo valor é maior que o terceiro valor? R:
+// 4- o primeiro valor menor ou igual que o terceiro valor? R:
+
+//Depois o programa deve informa ao usuaario verdadeiro ou falso:
+
+// 1- se a 1° pergunta e pergunta 3° são verdadeiras
+// 2- se a 2° pergunta e a 4° pergunta pelo menos uma é verdadeira
+// 3- se a negação da primeira pergunta é verdadeira.
+
+
+using static System.Console;
+
+int a, b, c;
+
+Write ("Digite o valor de A: ");
+a = int.Parse(ReadLine());
+
+Write ("Digite o valor de B: ");
+b = int.Parse(ReadLine());
+
+Write ("Digite o valor de C: ");
+c = int.Parse(ReadLine());
+
+bool valor1 = a == c;
+bool valor2 = b != a;
+bool valor3 = b > c;
+bool valor4 = a <= c;
+
+WriteLine($"O primeiro valor é igual ao tercerio valor? {valor1}");
+WriteLine($"O segundo valor é diferente do primeiro valor? {valor2}");
+WriteLine($"O segundo valor é maior que o terceiro valor? {valor3}");
+WriteLine($"O primeiro valor é menor ou igual o terceiro valor? {valor4}");
+
+bool per1 = valor1 & valor3;
+
+WriteLine($"O resultado da comparação é {per1}");
+
+bool per2 = valor2 | valor4;
+WriteLine($"O resultado da comparação é {per2}");
+
+bool per3 = !valor1;
+WriteLine($"O resultado da comparação é {per3}");
