@@ -14,32 +14,35 @@ Dictionary<int, double> produtos = new Dictionary<int, double>()
     {5, 1.50}
 };
 
-try{
- Console.BackgroundColor = ConsoleColor.White;
-Write("digite o código do produto:");
-Console.ResetColor();
-int codigo = int.Parse(ReadLine());
+while (true)
 
-WriteLine();
-Console.ForegroundColor = ConsoleColor.Blue;
+    try{
+            Console.ForegroundColor = ConsoleColor.White;
+            Write("digite o código do produto:");
+            Console.ResetColor();
+            int codigo = int.Parse(ReadLine());
 
-if (produtos.ContainsKey(codigo))
-{
+            WriteLine();
+            Console.ForegroundColor = ConsoleColor.Blue;
+
+            if (produtos.ContainsKey(codigo))
+            {
    
-Write("digite a quantidade comprada:");
-Console.ResetColor();
-int quantidade = int.Parse(ReadLine());
+                 Write("digite a quantidade comprada:");
+                 Console.ResetColor();
+                int quantidade = int.Parse(ReadLine());
 
-WriteLine();
-double valor = produtos[codigo] * quantidade;
-WriteLine($"Valor a ser pago: R$ {valor:F2}");
-}
+                WriteLine();
+                double valor = produtos[codigo] * quantidade;
+                WriteLine($"Valor a ser pago: R$ {valor:F2}");
+            }
 
-else
-{
-    WriteLine("Código do produto inválido.");
-}
-}
+            else
+            {
+                WriteLine("Código do produto inválido.");
+            }
+        }
+
 catch (Exception ex)
 {
     WriteLine("Ocorreu um erro: " + ex.Message);
