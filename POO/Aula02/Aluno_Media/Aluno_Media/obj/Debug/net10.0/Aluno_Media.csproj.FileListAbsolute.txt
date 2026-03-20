@@ -1,0 +1,15 @@
+C:\Users\FIC\CSharp2026\POO\Aula02\Aluno_Media\Aluno_Media\bin\Debug\net10.0\Aluno_Media.exe
+C:\Users\FIC\CSharp2026\POO\Aula02\Aluno_Media\Aluno_Media\bin\Debug\net10.0\Aluno_Media.deps.json
+C:\Users\FIC\CSharp2026\POO\Aula02\Aluno_Media\Aluno_Media\bin\Debug\net10.0\Aluno_Media.runtimeconfig.json
+C:\Users\FIC\CSharp2026\POO\Aula02\Aluno_Media\Aluno_Media\bin\Debug\net10.0\Aluno_Media.dll
+C:\Users\FIC\CSharp2026\POO\Aula02\Aluno_Media\Aluno_Media\bin\Debug\net10.0\Aluno_Media.pdb
+C:\Users\FIC\CSharp2026\POO\Aula02\Aluno_Media\Aluno_Media\obj\Debug\net10.0\Aluno_Media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\CSharp2026\POO\Aula02\Aluno_Media\Aluno_Media\obj\Debug\net10.0\Aluno_Media.AssemblyInfoInputs.cache
+C:\Users\FIC\CSharp2026\POO\Aula02\Aluno_Media\Aluno_Media\obj\Debug\net10.0\Aluno_Media.AssemblyInfo.cs
+C:\Users\FIC\CSharp2026\POO\Aula02\Aluno_Media\Aluno_Media\obj\Debug\net10.0\Aluno_Media.csproj.CoreCompileInputs.cache
+C:\Users\FIC\CSharp2026\POO\Aula02\Aluno_Media\Aluno_Media\obj\Debug\net10.0\Aluno_Media.sourcelink.json
+C:\Users\FIC\CSharp2026\POO\Aula02\Aluno_Media\Aluno_Media\obj\Debug\net10.0\Aluno_Media.dll
+C:\Users\FIC\CSharp2026\POO\Aula02\Aluno_Media\Aluno_Media\obj\Debug\net10.0\refint\Aluno_Media.dll
+C:\Users\FIC\CSharp2026\POO\Aula02\Aluno_Media\Aluno_Media\obj\Debug\net10.0\Aluno_Media.pdb
+C:\Users\FIC\CSharp2026\POO\Aula02\Aluno_Media\Aluno_Media\obj\Debug\net10.0\Aluno_Media.genruntimeconfig.cache
+C:\Users\FIC\CSharp2026\POO\Aula02\Aluno_Media\Aluno_Media\obj\Debug\net10.0\ref\Aluno_Media.dll

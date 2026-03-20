@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ExemploComPOO")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Aluno_Media")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+122055e650b9fdbc180065af8bb459140c495c4c")]
-[assembly: System.Reflection.AssemblyProductAttribute("ExemploComPOO")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ExemploComPOO")]
+[assembly: System.Reflection.AssemblyProductAttribute("Aluno_Media")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Aluno_Media")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

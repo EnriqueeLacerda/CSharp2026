@@ -1,0 +1,15 @@
+C:\Users\FIC\CSharp2026\POO\Aula02\AlunoNotaFinal\AlunoNotaFinal\bin\Debug\net10.0\AlunoNotaFinal.exe
+C:\Users\FIC\CSharp2026\POO\Aula02\AlunoNotaFinal\AlunoNotaFinal\bin\Debug\net10.0\AlunoNotaFinal.deps.json
+C:\Users\FIC\CSharp2026\POO\Aula02\AlunoNotaFinal\AlunoNotaFinal\bin\Debug\net10.0\AlunoNotaFinal.runtimeconfig.json
+C:\Users\FIC\CSharp2026\POO\Aula02\AlunoNotaFinal\AlunoNotaFinal\bin\Debug\net10.0\AlunoNotaFinal.dll
+C:\Users\FIC\CSharp2026\POO\Aula02\AlunoNotaFinal\AlunoNotaFinal\bin\Debug\net10.0\AlunoNotaFinal.pdb
+C:\Users\FIC\CSharp2026\POO\Aula02\AlunoNotaFinal\AlunoNotaFinal\obj\Debug\net10.0\AlunoNotaFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\CSharp2026\POO\Aula02\AlunoNotaFinal\AlunoNotaFinal\obj\Debug\net10.0\AlunoNotaFinal.AssemblyInfoInputs.cache
+C:\Users\FIC\CSharp2026\POO\Aula02\AlunoNotaFinal\AlunoNotaFinal\obj\Debug\net10.0\AlunoNotaFinal.AssemblyInfo.cs
+C:\Users\FIC\CSharp2026\POO\Aula02\AlunoNotaFinal\AlunoNotaFinal\obj\Debug\net10.0\AlunoNotaFinal.csproj.CoreCompileInputs.cache
+C:\Users\FIC\CSharp2026\POO\Aula02\AlunoNotaFinal\AlunoNotaFinal\obj\Debug\net10.0\AlunoNotaFinal.sourcelink.json
+C:\Users\FIC\CSharp2026\POO\Aula02\AlunoNotaFinal\AlunoNotaFinal\obj\Debug\net10.0\AlunoNotaFinal.dll
+C:\Users\FIC\CSharp2026\POO\Aula02\AlunoNotaFinal\AlunoNotaFinal\obj\Debug\net10.0\refint\AlunoNotaFinal.dll
+C:\Users\FIC\CSharp2026\POO\Aula02\AlunoNotaFinal\AlunoNotaFinal\obj\Debug\net10.0\AlunoNotaFinal.pdb
+C:\Users\FIC\CSharp2026\POO\Aula02\AlunoNotaFinal\AlunoNotaFinal\obj\Debug\net10.0\AlunoNotaFinal.genruntimeconfig.cache
+C:\Users\FIC\CSharp2026\POO\Aula02\AlunoNotaFinal\AlunoNotaFinal\obj\Debug\net10.0\ref\AlunoNotaFinal.dll
