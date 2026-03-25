@@ -1,0 +1,5 @@
+C:\Users\FIC\CSharp2026\POO\Aula02\funcionarios\funcionarios\obj\Debug\net10.0\funcionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\CSharp2026\POO\Aula02\funcionarios\funcionarios\obj\Debug\net10.0\funcionarios.AssemblyInfoInputs.cache
+C:\Users\FIC\CSharp2026\POO\Aula02\funcionarios\funcionarios\obj\Debug\net10.0\funcionarios.AssemblyInfo.cs
+C:\Users\FIC\CSharp2026\POO\Aula02\funcionarios\funcionarios\obj\Debug\net10.0\funcionarios.csproj.CoreCompileInputs.cache
+C:\Users\FIC\CSharp2026\POO\Aula02\funcionarios\funcionarios\obj\Debug\net10.0\funcionarios.sourcelink.json

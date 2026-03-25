@@ -25,6 +25,6 @@ namespace AlunoNotaFinal
             else
                 return 60 - NotaFinal();
         }
+        
     }
-
 }
