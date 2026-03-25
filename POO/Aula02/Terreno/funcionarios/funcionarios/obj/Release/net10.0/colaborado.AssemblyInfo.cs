@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("colaborado")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b8722ad7c1c615febf47f5df8577a9b3d384fac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24eb0623bb93ad98203ada183753610d97b0b37b")]
 [assembly: System.Reflection.AssemblyProductAttribute("colaborado")]
 [assembly: System.Reflection.AssemblyTitleAttribute("colaborado")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
