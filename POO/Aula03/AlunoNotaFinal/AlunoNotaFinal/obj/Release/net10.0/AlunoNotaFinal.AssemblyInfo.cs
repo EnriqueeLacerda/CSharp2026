@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlunoNotaFinal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24eb0623bb93ad98203ada183753610d97b0b37b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bead47e1d30d177ac6ec56a17367d6f75bb99f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlunoNotaFinal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlunoNotaFinal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
