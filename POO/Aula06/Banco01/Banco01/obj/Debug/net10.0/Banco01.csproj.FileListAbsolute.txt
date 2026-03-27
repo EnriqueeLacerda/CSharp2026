@@ -1,0 +1,15 @@
+C:\Users\FIC\Documents\CSharp2026\POO\Aula06\Banco01\Banco01\bin\Debug\net10.0\Banco01.exe
+C:\Users\FIC\Documents\CSharp2026\POO\Aula06\Banco01\Banco01\bin\Debug\net10.0\Banco01.deps.json
+C:\Users\FIC\Documents\CSharp2026\POO\Aula06\Banco01\Banco01\bin\Debug\net10.0\Banco01.runtimeconfig.json
+C:\Users\FIC\Documents\CSharp2026\POO\Aula06\Banco01\Banco01\bin\Debug\net10.0\Banco01.dll
+C:\Users\FIC\Documents\CSharp2026\POO\Aula06\Banco01\Banco01\bin\Debug\net10.0\Banco01.pdb
+C:\Users\FIC\Documents\CSharp2026\POO\Aula06\Banco01\Banco01\obj\Debug\net10.0\Banco01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIC\Documents\CSharp2026\POO\Aula06\Banco01\Banco01\obj\Debug\net10.0\Banco01.AssemblyInfoInputs.cache
+C:\Users\FIC\Documents\CSharp2026\POO\Aula06\Banco01\Banco01\obj\Debug\net10.0\Banco01.AssemblyInfo.cs
+C:\Users\FIC\Documents\CSharp2026\POO\Aula06\Banco01\Banco01\obj\Debug\net10.0\Banco01.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Documents\CSharp2026\POO\Aula06\Banco01\Banco01\obj\Debug\net10.0\Banco01.sourcelink.json
+C:\Users\FIC\Documents\CSharp2026\POO\Aula06\Banco01\Banco01\obj\Debug\net10.0\Banco01.dll
+C:\Users\FIC\Documents\CSharp2026\POO\Aula06\Banco01\Banco01\obj\Debug\net10.0\refint\Banco01.dll
+C:\Users\FIC\Documents\CSharp2026\POO\Aula06\Banco01\Banco01\obj\Debug\net10.0\Banco01.pdb
+C:\Users\FIC\Documents\CSharp2026\POO\Aula06\Banco01\Banco01\obj\Debug\net10.0\Banco01.genruntimeconfig.cache
+C:\Users\FIC\Documents\CSharp2026\POO\Aula06\Banco01\Banco01\obj\Debug\net10.0\ref\Banco01.dll
