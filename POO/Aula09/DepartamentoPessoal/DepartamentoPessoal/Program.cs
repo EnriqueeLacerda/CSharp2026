@@ -36,10 +36,10 @@ for (int i = 0; i< n; i++)
         Colaboradores.Add(new Terceiro(nome, h, v, d));
     }
 
-    WriteLine(" -Pagamentos-");
-    foreach (var colab in Colaboradores)
-    {
-        Colaboradores[colab].ToString;
-    }
-
+    
+}
+WriteLine(" -Pagamentos-");
+foreach (var colab in Colaboradores)
+{
+    WriteLine(colab.ToString());
 }
