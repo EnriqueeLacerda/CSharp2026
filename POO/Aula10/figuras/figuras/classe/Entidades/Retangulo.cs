@@ -26,11 +26,13 @@ namespace figuras.classe.Entidades
 			Altura = altura;
         }
 
-		/// <summary>
-		///		Calcula a área da forma usando as dimensões atuais.
-		/// </summary>
-		
-		/// <returns> o valor da área calculada com base na largura </returns>
+       
+
+        /// <summary>
+        ///		Calcula a área da forma usando as dimensões atuais.
+        /// </summary>
+
+        /// <returns> o valor da área calculada com base na largura </returns>
         public override double Area()
         {
             return Largura * Altura;

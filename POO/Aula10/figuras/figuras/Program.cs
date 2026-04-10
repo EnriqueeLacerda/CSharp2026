@@ -1,6 +1,6 @@
 ﻿using figuras.classe.Entidades;
 using figuras.classe.Enumeracao;
-using System.Security.Cryptography;
+
 using static System.Console;
 
 
@@ -25,8 +25,31 @@ for (int i = 0; i< qtd; i++)
               "\n\t4 - Amarelo");
 
         int cor = int.Parse(ReadLine());
-                          
+        WriteLine("Digite a largura do rêtangulo: ");
+        double l = double.Parse(ReadLine());
+        WriteLine("Digite a altura do rêtangulo: ");
+        double a = double.Parse(ReadLine());
+        formas.Add(new Retangulo((Cor)cor, l, a));
     }
+
+else if (escolha == 'c')
+    {
+        WriteLine("Qual a cor do objeto? " +
+          "\n\t1 - Vermelho" +
+          "\n\t2  - Rosa" +
+           "\n\t3 - Azul" +
+            "\n\t4 - Amarelo");
+        int cor = int.Parse(ReadLine());
+        WriteLine("Digite o raio da circunferencia: ");
+        double r = double.Parse(ReadLine());
+        formas.Add(new Circulo((Cor)cor, r));
+    }
+
+}
+
+foreach (var figurinhas in formas)
+{
+    Write(figurinhas.ToString());
 }
 
 
